@@ -1,2 +1,2 @@
-# my-project.github.io
+# my-project
 this is my showcase of learnings 
